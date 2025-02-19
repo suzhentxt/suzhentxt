@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen To Trinh Chau</h1>
-<h3 align="center">Á freshman at VNU University of Engineering and Technology – VNU-UET</h3>
+<h3 align="center">A freshman at VNU University of Engineering and Technology – VNU-UET</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzhentxt&label=Profile%20views&color=0e75b6&style=flat" alt="suzhentxt" /> </p>
 
